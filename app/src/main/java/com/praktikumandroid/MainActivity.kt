@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         btLogin.setOnClickListener {
             val stEmail = etEmail.text.toString().trim()
             val stPassword = etPassword.text.toString()
-            Toast.makeText(this, stEmail, Toast.LENGTH_SHORT).show()
+            Toast.makeText(this,stEmail,Toast.LENGTH_SHORT).show()
         }
     }
 }

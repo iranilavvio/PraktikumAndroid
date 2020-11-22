@@ -1,7 +1,12 @@
 <resources>
     <string name="app_name">PraktikumAndroid</string>
     <string name="hai_semua">Hai semua..</string>
-    <string name="email">email</string>
-    <string name="password">password</string>
-    <string name="login">login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="student_id">Student Id</string>
+    <string name="student_name">Student Name</string>
+    <string name="student_phone_number">Student Phone Number</string>
+    <string name="save">Save</string>
+    <string name="dial">dial</string>
 </resources>
